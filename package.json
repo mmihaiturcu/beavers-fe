@@ -13,8 +13,11 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
+    "@types/googletag": "^1.2.3",
     "axios": "^0.21.1",
+    "breadwinner": "file:../../breadwinner/breadwinner",
     "core-js": "^3.6.5",
+    "pinia": "^2.0.12",
     "quasar": "^2.0.0",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0"
