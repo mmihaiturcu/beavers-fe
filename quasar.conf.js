@@ -53,7 +53,7 @@ module.exports = configure(function (ctx) {
             vueRouterMode: 'hash', // available values: 'hash', 'history'
 
             env: {
-                BREADWINNER_API_KEY: 'cd918172-0522-4c6e-9fdd-de726f082067', // for localhost domain, in production it would be for beavers.com
+                BREADWINNER_API_KEY: '80e0925d-ac5c-486a-b18a-4a50759fd873', // for localhost domain, in production it would be for beavers.com
             },
 
             // transpile: false,
